@@ -9,6 +9,7 @@ def generate_addons(resolution, parameters):
 
 def generate_window(board,addons):
 
+
     pass
 
 class background:
