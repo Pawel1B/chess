@@ -1,0 +1,11 @@
+Global:
+  memory: True
+  resolution_x: 1024
+  resolution_y: 768
+  FPS: 30
+Chessboard:
+  secondary_color: BLACK
+Addons:
+  time: False
+  turn: False
+  score: False
