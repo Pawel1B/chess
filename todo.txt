@@ -1,0 +1,3 @@
+generate window
+generate_board
+generate_addons

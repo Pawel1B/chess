@@ -8,8 +8,11 @@ def generate_addons(resolution, parameters):
     pass
 
 def generate_window(board,addons):
-
-
+    try:
+        if addons == False:
+            generate_board()
+    except:
+        print("a")
     pass
 
 class background:
